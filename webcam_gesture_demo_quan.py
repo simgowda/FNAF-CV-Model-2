@@ -8,7 +8,7 @@ from torchvision import transforms
 from torchvision.models import resnet18
 from collections import deque, Counter
 
-MODEL_PATH = "gesture_resnet18.pt"
+MODEL_PATH = "gesture_resnet18_1.pt"
 CAMERA_INDEX = 0
 SMOOTHING_WINDOW = 8
 
